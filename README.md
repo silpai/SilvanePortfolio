@@ -1,9 +1,9 @@
 <h1 align="center">👋 Silvane Paixao</h1>
-👯  **Data Science | Machine Learning | Deep Learning | Data Analytics Projects**
+<h4 align="center">👯  **Data Science | Machine Learning | Deep Learning | Data Analytics Projects** </h4>
 
 
 
-<h2 align="center"> Exploratory Data Analysis (EDA) Projects </h2>
+<h2 align="left"> Exploratory Data Analysis (EDA) Projects </h2>
 
 # [Project Shopify](https://github.com/silpai/ShopifyChallenge)
 * Project to build calculate an Average Order Value (AOV) which is the average $ spent each time a customer places an order.
