@@ -4,14 +4,14 @@
 <h2 align="left"> Deep Learning Projects </h2>
 
 ## [Project Sunspot RNN](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/SunspotRNN.ipynb)
-* Assignment to classify different types of wine requirement for the Data Science/Machine Learning Certificate at McGill University.
+* Assignment to use RNN: LSTM, GRU, simple RNN requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: Recurrent neural network
 * Built in: Python (keras, sklearn, seaborn, pandas)
 * Last update: 2023
-![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/wine%20corr.png)
+![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/Sunspot%20timeSeries.png)
 
 ## [Project Wine Classification](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Classification_NN.ipynb)
-* Assignment to use RNN: LSTM, GRU, simple RNN requirement for the Data Science/Machine Learning Certificate at McGill University.
+* Assignment to classify different types of wine requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: Classification using small neural network
 * Built in: Python (keras, seaborn, pandas)
 * Last update: 2023
