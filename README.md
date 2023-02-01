@@ -1,6 +1,13 @@
 <h1 align="center">👋 Silvane Paixao</h1>
 <h4 align="center">👯  **Data Science | Machine Learning | Deep Learning | Data Analytics Projects** </h4>
 
+<h2 align="left"> Deep Learning Projects </h2>
+## [Project Wine Classification](https://github.com/silpai/ShopifyChallenge)
+* Assignment to classify different types of wine requirement for the or the Data Science/Machine Learning Certificate at McGill University.
+* Category: Classification using small neural network
+* Built in: Python (keras, seaborn, pandas)
+* Last update: 2023
+![](
 
 
 <h2 align="left"> Exploratory Data Analysis (EDA) Projects </h2>
