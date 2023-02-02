@@ -22,11 +22,11 @@
 
 <h2 align="left"> Data Science Projects </h2>
 
-## [Project Prediction](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Classification_NN.ipynb)
+## [Project Prediction](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Prediction%20-%20Random%20Sample%20Data.ipynb)
 * Assignment to predict values based on random values requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: prediction - simple linear regression
 * Built in: Python (sklearn, seaborn, pandas)
-* Available at:
+* Available at: https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Prediction%20-%20Random%20Sample%20Data.ipynb
 * Last update: 2022
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/random_LR.png)
 
