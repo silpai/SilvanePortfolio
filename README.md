@@ -18,7 +18,7 @@
 * Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Classification_NN.ipynb
 * Last update: 2023
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/wine%20corr.png)
-
+</a> </p>
 
 <h2 align="left"> Data Science Projects </h2>
 
@@ -30,15 +30,15 @@
 * Last update: 2022
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/random_LR.png)
 
-## [Project Discriminant Analyis](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Prediction%20-%20Random%20Sample%20Data.ipynb)
+## [Project Discriminant Analysis](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Credit-LDA_QDA_LogisticRegression_ConfusionMatrix_ROCCurves.ipynb)
 * Assignment to apply discriminat analysis on credit dataset and model evaluation requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: LDA. QDA, Logistic Regression, Confusion Matrix, ROC Curves
 * Built in: Python (sklearn, scipy, seaborn, pandas)
-* Available at: https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Prediction%20-%20Random%20Sample%20Data.ipynb
+* Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Credit-LDA_QDA_LogisticRegression_ConfusionMatrix_ROCCurves.ipynb
 * Last update: 2022
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/ROCcurve.png)
 
-
+</a> </p>
 
 <h2 align="left"> Exploratory Data Analysis (EDA) Projects </h2>
 
