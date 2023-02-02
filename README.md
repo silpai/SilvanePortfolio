@@ -31,14 +31,23 @@
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/random_LR.png)
 
 ## [Project Discriminant Analysis](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Credit-LDA_QDA_LogisticRegression_ConfusionMatrix_ROCCurves.ipynb)
-* Assignment to apply discriminat analysis on credit dataset and model evaluation requirement for the Data Science/Machine Learning Certificate at McGill University.
+* Assignment to apply discriminat analysis on credit dataset and model evaluation; requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: LDA. QDA, Logistic Regression, Confusion Matrix, ROC Curves
 * Built in: Python (sklearn, scipy, seaborn, pandas)
 * Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Credit-LDA_QDA_LogisticRegression_ConfusionMatrix_ROCCurves.ipynb
 * Last update: 2022
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/ROCcurve.png)
 
+## [Project Principal Component Analysis](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Digits-PCA_LogisticRegression_CrossValidation.ipynb)
+* Assignment to apply Principal Component on digits dataset and model evaluation; requirement for the Data Science/Machine Learning Certificate at McGill University.
+* Category: PCA, Logistic Regression, Cross-Validation, Confusion Matrix
+* Built in: Python (sklearn, seaborn, pandas)
+* Available at: https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Digits-PCA_LogisticRegression_CrossValidation.ipynb
+* Last update: 2022
+![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/PCA.png)
+
 </a> </p>
+
 
 <h2 align="left"> Exploratory Data Analysis (EDA) Projects </h2>
 
