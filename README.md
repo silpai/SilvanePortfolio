@@ -18,6 +18,16 @@
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/wine%20corr.png)
 
 
+<h2 align="left"> Data Science Projects </h2>
+
+## [Project Prediction](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Classification_NN.ipynb)
+* Assignment to predict values based on random values requirement for the Data Science/Machine Learning Certificate at McGill University.
+* Category: prediction - simple linear regression
+* Built in: Python (sklearn, seaborn, pandas)
+* Last update: 2022
+![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/random_LR.png)
+
+
 <h2 align="left"> Exploratory Data Analysis (EDA) Projects </h2>
 
 ## [Project Shopify](https://github.com/silpai/ShopifyChallenge)
