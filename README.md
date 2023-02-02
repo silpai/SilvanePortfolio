@@ -7,6 +7,7 @@
 * Assignment to use RNN: LSTM, GRU, simple RNN requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: Recurrent neural network
 * Built in: Python (keras, sklearn, seaborn, pandas)
+* Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/SunspotRNN.ipynb
 * Last update: 2023
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/Sunspot%20timeSeries.png)
 
@@ -14,6 +15,7 @@
 * Assignment to classify different types of wine requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: Classification using small neural network
 * Built in: Python (keras, seaborn, pandas)
+* Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Classification_NN.ipynb
 * Last update: 2023
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/wine%20corr.png)
 
@@ -24,6 +26,7 @@
 * Assignment to predict values based on random values requirement for the Data Science/Machine Learning Certificate at McGill University.
 * Category: prediction - simple linear regression
 * Built in: Python (sklearn, seaborn, pandas)
+* Available at:
 * Last update: 2022
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/random_LR.png)
 
