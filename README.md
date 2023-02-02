@@ -9,6 +9,7 @@
 * Built in: Python (keras, sklearn, seaborn, pandas)
 * Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/SunspotRNN.ipynb
 * Last update: 2023
+
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/Sunspot%20timeSeries.png)
 
 ## [Project Wine Classification](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Classification_NN.ipynb)
@@ -17,6 +18,7 @@
 * Built in: Python (keras, seaborn, pandas)
 * Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Classification_NN.ipynb
 * Last update: 2023
+
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/wine%20corr.png)
 </a> </p>
 
@@ -28,6 +30,7 @@
 * Built in: Python (sklearn, seaborn, pandas)
 * Available at: https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Prediction%20-%20Random%20Sample%20Data.ipynb
 * Last update: 2022
+
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/random_LR.png)
 
 ## [Project Discriminant Analysis](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Credit-LDA_QDA_LogisticRegression_ConfusionMatrix_ROCCurves.ipynb)
@@ -36,6 +39,7 @@
 * Built in: Python (sklearn, scipy, seaborn, pandas)
 * Available at:https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Credit-LDA_QDA_LogisticRegression_ConfusionMatrix_ROCCurves.ipynb
 * Last update: 2022
+
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/ROCcurve.png)
 
 ## [Project Principal Component Analysis](https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Digits-PCA_LogisticRegression_CrossValidation.ipynb)
@@ -44,6 +48,7 @@
 * Built in: Python (sklearn, seaborn, pandas)
 * Available at: https://github.com/silpai/McGill_DataScience_ML_Certificate/blob/main/Digits-PCA_LogisticRegression_CrossValidation.ipynb
 * Last update: 2022
+
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/PCA.png)
 
 </a> </p>
@@ -56,6 +61,7 @@
 * Built in: SQL, R 
 * Available at: https://rpubs.com/silpai/Shopify-Technical-Challenge
 * Last update: 2022
+
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/AOV%20Margins.png) 
 
 ## [Project Covid-19 Analysis](https://github.com/silpai/Machine-Learning---Covid-19)
@@ -63,6 +69,7 @@
 * Built in: R 
 * Available at: (https://rpubs.com/silpai/ML_Covid-19Analysis_Part1)
 * Last update: 2021
+
 ![](https://github.com/silpai/SilvanePortfolio/blob/main/Images/Covid_19Deaths2020.png)
 </a> </p>
 
